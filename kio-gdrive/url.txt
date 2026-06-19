@@ -1,0 +1,1 @@
+https://download.kde.org/stable/release-service/26.04.0/src/kio-gdrive-26.04.0.tar.xz
